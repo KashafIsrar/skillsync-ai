@@ -1,0 +1,6 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply bg-paper text-ink font-sans antialiased; }
+.glass { @apply backdrop-blur-md bg-white/80 border border-white/60 shadow-card rounded-2xl; }
+.pill { @apply inline-flex items-center gap-1 rounded-full px-3 py-1 text-xs font-medium; }
+:focus-visible { outline: 2px solid #A66C46; outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { animation-duration: .01ms !important; transition-duration: .01ms !important; } }
