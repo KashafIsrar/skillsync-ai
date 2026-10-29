@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Required frontend skills",
+    "resume": "Built React.js components and maintained a TypeScript application.",
+    "jobDescription": "Required: React and TypeScript.",
+    "expectedMatched": ["React", "TypeScript"]
+  },
+  {
+    "name": "SQL dialect alias",
+    "resume": "Designed PostgreSQL schemas and wrote indexed queries.",
+    "jobDescription": "SQL is preferred.",
+    "expectedMatched": ["SQL"]
+  },
+  {
+    "name": "AWS service alias and negation",
+    "resume": "Deployed the service to Amazon S3. No prior AWS experience was required for my earlier role.",
+    "jobDescription": "AWS is required.",
+    "expectedMatched": ["AWS"]
+  },
+  {
+    "name": "HTTP endpoint equivalent",
+    "resume": "Designed HTTP endpoints with request validation and consistent responses.",
+    "jobDescription": "Experience building REST APIs required.",
+    "expectedMatched": ["REST APIs"]
+  },
+  {
+    "name": "CI platform alias",
+    "resume": "Added GitHub Actions workflows to run checks on every pull request.",
+    "jobDescription": "CI/CD experience preferred.",
+    "expectedMatched": ["CI/CD"]
+  },
+  {
+    "name": "Standalone JS alias",
+    "resume": "Used JS to add client-side form validation.",
+    "jobDescription": "JavaScript required.",
+    "expectedMatched": ["JavaScript"]
+  },
+  {
+    "name": "Leadership context avoids LED false positive",
+    "resume": "Repaired LED indicators on laboratory equipment.",
+    "jobDescription": "Leadership experience preferred.",
+    "expectedMatched": []
+  },
+  {
+    "name": "Phrase boundaries avoid unrelated words",
+    "resume": "Reacted quickly to contest issues during a timed event.",
+    "jobDescription": "React and testing are required.",
+    "expectedMatched": []
+  },
+  {
+    "name": "Leadership action verb with object",
+    "resume": "Led a team of four developers through a migration.",
+    "jobDescription": "Leadership is required.",
+    "expectedMatched": ["Leadership"]
+  },
+  {
+    "name": "Explicit skill negation",
+    "resume": "I have no previous experience with AWS.",
+    "jobDescription": "AWS is required.",
+    "expectedMatched": []
+  },
+  {
+    "name": "Next.js spelling alias",
+    "resume": "Built pages with Next.js and React server components.",
+    "jobDescription": "Next.js experience is required.",
+    "expectedMatched": ["Next.js"]
+  },
+  {
+    "name": "Next step is not Next.js",
+    "resume": "Took the next step by documenting the deployment process.",
+    "jobDescription": "Next.js experience is required.",
+    "expectedMatched": []
+  },
+  {
+    "name": "Node.js spelling alias",
+    "resume": "Maintained Node.js services for internal tools.",
+    "jobDescription": "Node.js experience preferred.",
+    "expectedMatched": ["Node.js"]
+  },
+  {
+    "name": "Python requirement",
+    "resume": "Automated data cleanup with Python scripts.",
+    "jobDescription": "Python required for workflow automation.",
+    "expectedMatched": ["Python"]
+  },
+  {
+    "name": "Containerization synonym",
+    "resume": "Used containerization to make local development consistent.",
+    "jobDescription": "Docker experience is preferred.",
+    "expectedMatched": ["Docker"]
+  },
+  {
+    "name": "Kubernetes abbreviation",
+    "resume": "Deployed workloads to a K8s cluster.",
+    "jobDescription": "Kubernetes is required.",
+    "expectedMatched": ["Kubernetes"]
+  },
+  {
+    "name": "CI platform synonym",
+    "resume": "Configured GitLab CI to run checks for every merge request.",
+    "jobDescription": "Continuous integration experience required.",
+    "expectedMatched": ["CI/CD"]
+  },
+  {
+    "name": "GraphQL requirement",
+    "resume": "Added GraphQL resolvers for customer profile queries.",
+    "jobDescription": "GraphQL is a nice to have.",
+    "expectedMatched": ["GraphQL"]
+  },
+  {
+    "name": "REST API equivalent wording",
+    "resume": "Implemented HTTP APIs with input validation and documented responses.",
+    "jobDescription": "REST API development is required.",
+    "expectedMatched": ["REST APIs"]
+  },
+  {
+    "name": "Test framework alias",
+    "resume": "Added Cypress coverage for the checkout flow.",
+    "jobDescription": "Automated testing is preferred.",
+    "expectedMatched": ["Testing"]
+  },
+  {
+    "name": "Accessibility acronym",
+    "resume": "Improved keyboard navigation and a11y labels on the settings page.",
+    "jobDescription": "Accessibility experience preferred.",
+    "expectedMatched": ["Accessibility"]
+  },
+  {
+    "name": "System design synonym",
+    "resume": "Designed microservices for independently deployed workloads.",
+    "jobDescription": "System design skills are required.",
+    "expectedMatched": ["System Design"]
+  },
+  {
+    "name": "Observability platform alias",
+    "resume": "Created Prometheus dashboards for service health.",
+    "jobDescription": "Observability experience is preferred.",
+    "expectedMatched": ["Observability"]
+  },
+  {
+    "name": "Performance evidence",
+    "resume": "Improved page performance by reducing image payload size.",
+    "jobDescription": "Web performance optimization is required.",
+    "expectedMatched": ["Performance"]
+  },
+  {
+    "name": "Agile process alias",
+    "resume": "Collaborated with the team during Scrum planning and reviews.",
+    "jobDescription": "Agile delivery experience is preferred.",
+    "expectedMatched": ["Agile"]
+  },
+  {
+    "name": "Mentoring as leadership evidence",
+    "resume": "Mentored two junior engineers through their first releases.",
+    "jobDescription": "Leadership experience is required.",
+    "expectedMatched": ["Leadership"]
+  },
+  {
+    "name": "Machine learning acronym",
+    "resume": "Built an ML classifier and evaluated it on held-out data.",
+    "jobDescription": "Machine learning experience is preferred.",
+    "expectedMatched": ["Machine Learning"]
+  },
+  {
+    "name": "Tailwind alias",
+    "resume": "Styled reusable components with Tailwind CSS.",
+    "jobDescription": "Tailwind experience is required.",
+    "expectedMatched": ["Tailwind CSS"]
+  },
+  {
+    "name": "Terraform requirement",
+    "resume": "Provisioned test environments with Terraform modules.",
+    "jobDescription": "Terraform experience is preferred.",
+    "expectedMatched": ["Terraform"]
+  },
+  {
+    "name": "Redis requirement",
+    "resume": "Used Redis to cache frequently requested records.",
+    "jobDescription": "Redis experience is required.",
+    "expectedMatched": ["Redis"]
+  },
+  {
+    "name": "SQL dialect alias",
+    "resume": "Wrote MySQL queries to support monthly reporting.",
+    "jobDescription": "SQL experience is required.",
+    "expectedMatched": ["SQL"]
+  },
+  {
+    "name": "Unrelated JavaScript substring",
+    "resume": "Adjusted the onboarding instructions and reviewed project notes.",
+    "jobDescription": "JavaScript experience is required.",
+    "expectedMatched": []
+  },
+  {
+    "name": "Unrelated Redis substring",
+    "resume": "Reviewed the credit risk summary with the finance team.",
+    "jobDescription": "Redis experience is required.",
+    "expectedMatched": []
+  },
+  {
+    "name": "Resume and requirement evidence stay distinct",
+    "resume": "Built a React application for an internal tool.",
+    "jobDescription": "React is required. Clear communication is a plus.",
+    "expectedMatched": ["React"]
+  }
+]
